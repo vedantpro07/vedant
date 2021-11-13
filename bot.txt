@@ -1,0 +1,3 @@
+ip.NotVedant07.aternos.me
+port.18867
+name.bot
